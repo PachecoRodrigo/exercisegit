@@ -1,0 +1,87 @@
+[33mcommit 18bd73bc2718e13258eccb03b4660d715809fc5a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: d516fc0 b724b14
+Author: PachecoRodrigo <chrisianpachecoayza@gmail.com>
+Date:   Tue Aug 11 17:20:58 2020 -0300
+
+    console log
+
+[33mcommit d516fc00d81512bdc1f4b003e11d28fa64ff39b2[m
+Merge: 360ce0e ecd973f
+Author: PachecoRodrigo <chrisianpachecoayza@gmail.com>
+Date:   Tue Aug 11 17:19:55 2020 -0300
+
+    respuesta console log
+
+[33mcommit b724b14fffab04f78f1154f65109aef4cc6eedd2[m
+Author: santiperone <sdperone97@gmail.com>
+Date:   Tue Aug 11 17:18:51 2020 -0300
+
+    borrada linea en blanco
+
+[33mcommit 360ce0e9d900098c4d7401044fe838fa44868279[m
+Author: PachecoRodrigo <chrisianpachecoayza@gmail.com>
+Date:   Tue Aug 11 17:18:32 2020 -0300
+
+    modificado console log
+
+[33mcommit ecd973f883e58d47a4da1c079767f87aeb2ff245[m
+Merge: 10b48b7 53a22ff
+Author: santiperone <sdperone97@gmail.com>
+Date:   Tue Aug 11 17:15:17 2020 -0300
+
+    conflicto resuelto en console log
+
+[33mcommit 53a22ff61960b0bb395467bb5668d6095d6e835f[m
+Merge: 9ab0e4f 8cd381f
+Author: PachecoRodrigo <chrisianpachecoayza@gmail.com>
+Date:   Tue Aug 11 17:13:43 2020 -0300
+
+    error corregido
+
+[33mcommit 10b48b7311c9ea7376ff98cf4157564724dd054b[m
+Author: santiperone <sdperone97@gmail.com>
+Date:   Tue Aug 11 17:13:41 2020 -0300
+
+    cambio en hola mundo
+
+[33mcommit 9ab0e4f63a84ff627f0d00ae010665ddc9849f9d[m
+Author: PachecoRodrigo <chrisianpachecoayza@gmail.com>
+Date:   Tue Aug 11 17:12:00 2020 -0300
+
+    modificado console log
+
+[33mcommit 8cd381f5d54357e01f7387aae617184cc9a303a4[m
+Author: santiperone <sdperone97@gmail.com>
+Date:   Tue Aug 11 17:06:48 2020 -0300
+
+    cambio en el mensaje de bienvenida
+
+[33mcommit 7e6b02585deca29fa03c48afd826c8d082689ee1[m
+Author: PachecoRodrigo <chrisianpachecoayza@gmail.com>
+Date:   Tue Aug 11 16:53:59 2020 -0300
+
+    modificacion de los archivos js: arrays, funsiones y logica
+
+[33mcommit e6348499ea7296a0dadf1d1f74e321aab0419777[m
+Author: santiperone <sdperone97@gmail.com>
+Date:   Tue Aug 11 16:49:51 2020 -0300
+
+    modificados app.js, lista.json y tareas.js
+
+[33mcommit 99fe01428774c51240eb95e7b4af18d374b8e843[m
+Author: PachecoRodrigo <chrisianpachecoayza@gmail.com>
+Date:   Tue Aug 11 16:48:05 2020 -0300
+
+    agregue arrays.js, funciones.js y logica.js
+
+[33mcommit 00591628ae0db2e171eb2f25d4f78ff2846fb1d1[m
+Author: santiperone <sdperone97@gmail.com>
+Date:   Tue Aug 11 16:41:58 2020 -0300
+
+    creados app.js, lista.json y tareas.js
+
+[33mcommit e175dbf3f5919561b0f1585dd4dcd98d9c9b1255[m
+Author: PachecoRodrigo <66450438+PachecoRodrigo@users.noreply.github.com>
+Date:   Tue Aug 11 15:09:31 2020 -0300
+
+    Initial commit
