@@ -1,2 +1,2 @@
-console.log('Hola Mundoo!');
+console.log('Hola Mundoo! xD');
 tarea = require('./tareas');
