@@ -1,2 +1,2 @@
-tareas = (valor) => valor * 2
+tareas = (valor) => valor * 4
 module.exports = tareas;
